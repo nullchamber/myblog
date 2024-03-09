@@ -7,6 +7,7 @@ executing==2.0.1
 Faker==24.0.0
 ipython==8.22.2
 jedi==0.19.1
+Markdown==3.5.2
 matplotlib-inline==0.1.6
 parso==0.8.3
 pexpect==4.9.0
